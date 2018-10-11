@@ -1,0 +1,100 @@
+body{
+    background-color: #D7CEC7;
+    color: #18121E; 
+    margin: 5%;
+}
+
+header {
+    text-align: center;
+    font-size: 50pt; 
+    color: #984B43;
+}
+
+#nav table{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #984B43;
+    
+}
+#nav table td{
+    padding: 10px;
+    margin: 20px;
+    align-content: center;
+}
+
+
+#homepage img{
+    border-radius: 10%;
+    width: 150px;
+    height: 150px;
+    margin-left: 100px;
+    float: left;
+}
+#homepage p{
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    font-size: 12pt;
+}
+
+
+#resume h2{
+    text-align: center;
+    color: #1E392A; 
+}
+#resume h3{
+    color: #984B43;
+}
+#resume table{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+#resume table th{
+    padding: 10px;
+    width: 33%;
+}
+#resume table td{
+    padding: 10px;
+    width: 33%;
+    text-align: center;
+}
+
+
+#education h2{
+    text-align: center;
+    color: #1E392A; 
+}
+#education h3{
+    color: #984B43;
+}
+#education h4{
+    float:left;
+    width:30%
+}
+#education dl{
+    float: left;
+    width: 70%;
+}
+
+#personal h2{
+    text-align: center;    
+    color: #1E392A; 
+
+}
+#personal h4{
+    float:left;
+    width:30%;
+}
+#personal dl{
+    float: left;
+    width: 70%;
+}
+
+
+footer{
+    text-align: center;
+}
